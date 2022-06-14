@@ -1,0 +1,41 @@
+Apresentação
+
+https://youtu.be/klMG2wPD8gQ
+
+Introdução
+
+https://youtu.be/QXxb5NS0O3k
+
+Habilidades complementares
+
+https://youtu.be/fGRo_8fcCvQ
+
+Pilares: Decomposição
+
+https://youtu.be/VYj25lXDFO4
+
+Pilares: Padrões
+
+https://youtu.be/ZlFALk5Eths
+
+Pilares: Abstração
+
+https://youtu.be/6oEbiKyA1c0
+
+Pilares: Algoritmos
+
+https://youtu.be/5tGCF7KHA74
+
+Estudo de caso conceitual: perdido
+
+https://youtu.be/GYpuyxSq4R0
+
+Estudo de caso aplicado: Soma de um intervalo
+
+https://youtu.be/cSRzkz0KlNE
+
+Estudo de caso aplicado: Adivinhe um número
+
+https://youtu.be/lh7CQ95f7yg
+
+Fim do Tópico.
